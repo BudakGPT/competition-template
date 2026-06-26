@@ -1,0 +1,9 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Competition Name">
+  <rect x="0.5" y="0.5" width="1199" height="219" rx="16" fill="#0D1117" stroke="#21262D"/>
+  <text x="64" y="74" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="3" fill="#8B949E">ORGANIZER OR EVENT</text>
+  <text x="64" y="138" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#E6EDF3">Competition Name</text>
+  <rect x="64" y="156" width="60" height="4" rx="2" fill="#7C3AED"/>
+  <text x="64" y="192" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="18" fill="#8B949E">Next: Registration in 36 days (2026-08-01)</text>
+  <rect x="1069" y="40" width="91" height="34" rx="17" fill="#7C3AED"/>
+  <text x="1114" y="62" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1.5" fill="#FFFFFF" text-anchor="middle">ACTIVE</text>
+</svg>

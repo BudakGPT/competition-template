@@ -1,0 +1,58 @@
+# =============================================================================
+#  competition.yml is the single source of truth for this tracker.
+#  Edit this file and the README dashboard regenerates itself (on push + daily).
+#  Never hand-edit the AUTO block inside README.md.
+# =============================================================================
+
+name: "Competition Name"            # e.g. "AI Innovation Challenge"
+organizer: "Organizer or Event"     # e.g. "COMPFEST 18"
+tagline: "One line describing the project."
+
+# status drives the hero pill and where this card sits on the org dashboard.
+# one of: upcoming | active | submitted | won | lost | archived
+status: active
+
+# Per-competition visual identity (data-driven theming).
+theme:
+  accent: "2EA043"        # hex without '#'. Colors the hero rule, pill, progress.
+  banner: ""              # optional custom hero image (path or URL); overrides the
+                          # generated header when set.
+
+# Links. Only the ones you fill in are shown.
+links:
+  registration: ""
+  website: ""
+  devpost: ""
+  code: ""                # the separate code repo (private during, public after)
+  slides: ""
+  demo: ""
+
+# Team (optional).
+team:
+  - name: ""
+    role: ""
+
+# Timeline. Renders a Mermaid Gantt and drives the countdown. Mark milestones
+# done: true as you pass them; the nearest pending dated milestone becomes the
+# headline countdown.
+timeline:
+  - milestone: "Registration"
+    date: 2026-08-01        # YYYY-MM-DD
+    done: false
+  - milestone: "Submission Deadline"
+    date: 2026-09-01
+    done: false
+  - milestone: "Demo Day"
+    date: 2026-09-10
+    done: false
+
+# Deliverables. Renders a checklist and the animated progress bar.
+deliverables:
+  - name: "Project proposal"
+    done: false
+  - name: "Working prototype"
+    done: false
+  - name: "Demo video"
+    done: false
+  - name: "Pitch deck"
+    done: false
