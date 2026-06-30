@@ -3,7 +3,7 @@
 
 <p align="center"><img src="assets/header.svg" alt="Competition Name" width="100%"></p>
 
-> Next milestone: **Registration**, 33 days remaining (2026-08-01).
+> Next milestone: **Registration**, 32 days remaining (2026-08-01).
 
 ## Timeline
 
@@ -32,7 +32,7 @@ gantt
 
 _No resources linked yet._
 
-<div align="right"><sub>Last updated 2026-06-29</sub></div>
+<div align="right"><sub>Last updated 2026-06-30</sub></div>
 
 <!-- AUTO:END -->
 
