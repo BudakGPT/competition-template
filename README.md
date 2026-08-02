@@ -3,7 +3,7 @@
 
 <p align="center"><img src="assets/header.svg" alt="Competition Name" width="100%"></p>
 
-> **Registration** is due today (2026-08-01).
+> **Registration** is overdue (was due 2026-08-01).
 
 ## Timeline
 
@@ -32,7 +32,7 @@ gantt
 
 _No resources linked yet._
 
-<div align="right"><sub>Last updated 2026-08-01</sub></div>
+<div align="right"><sub>Last updated 2026-08-02</sub></div>
 
 <!-- AUTO:END -->
 
