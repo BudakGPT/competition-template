@@ -32,7 +32,7 @@ gantt
 
 _No resources linked yet._
 
-<div align="right"><sub>Last updated 2026-08-10</sub></div>
+<div align="right"><sub>Last updated 2026-08-11</sub></div>
 
 <!-- AUTO:END -->
 
